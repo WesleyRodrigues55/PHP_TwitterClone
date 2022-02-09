@@ -1,4 +1,7 @@
 # Twitter_Clone
-<h1>Twitter clone feito com PHP no curso da Udemy - Desenvolvimento de sistemas WEb (Completo)</h1>
+### Twitter clone feito com PHP no curso da Udemy - Desenvolvimento de sistemas WEb (Completo)</h1>
 
-<p>Em andamento...</p>
+<img src=".github/1.png">
+<img src=".github/2.png">
+<img src=".github/3.png">
+<img src=".github/4.png">
